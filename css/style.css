@@ -1,0 +1,30 @@
+.projects-archive {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 70px 50px;
+}
+
+.project-card {
+    display: inline-block;
+    margin: auto 20px;
+}
+
+.project-card img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.page-numbers {
+    background: #332;
+    color: #fff;
+    text-align: center;
+    margin: auto 20px;
+    padding: 10px;
+}
+
+#button1 {
+    background: cornflowerblue;
+    color: #fff;
+    padding: 10px 25px;
+    border: none;
+}
